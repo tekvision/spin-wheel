@@ -1,7 +1,5 @@
 #Host Spin Wheel (React)
 
-A responsive React + Vite app inspired by the Diwali wheel UI.
-
 ## Features
 - Add up to 15 names (starts with 14 sample names).
 - Remove names from the list.
