@@ -1,4 +1,4 @@
-# Diwali Host Spin Wheel (React)
+#Host Spin Wheel (React)
 
 A responsive React + Vite app inspired by the Diwali wheel UI.
 
@@ -23,4 +23,3 @@ A responsive React + Vite app inspired by the Diwali wheel UI.
 
 To create a production build, run `npm run build`.
 
-The `public/diwali-reference.png` file is the visual reference image; the app UI is built with React and CSS, not a flattened screenshot.
